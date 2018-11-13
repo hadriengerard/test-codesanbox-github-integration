@@ -13,6 +13,7 @@ function App() {
           <li className="menu__item">item 1</li>
           <li className="menu__item">item 2</li>
           <li className="menu__item">item 3</li>
+          <li className="menu__item">item 4</li>
         </ul>
       </div>
     </div>
