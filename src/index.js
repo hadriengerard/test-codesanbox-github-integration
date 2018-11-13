@@ -6,13 +6,13 @@ import './styles.css';
 function App() {
   return (
     <div className="App">
-      <div className="menu-button">
-        <div className="menu-text">Menu</div>
-        <div className="menu-anchor" />
-        <ul className="menu">
-          <li className="menu-item">item 1</li>
-          <li className="menu-item">item 2</li>
-          <li className="menu-item">item 3</li>
+      <div className="menu">
+        <div className="menu__button">Menu</div>
+        <div className="menu__anchor" />
+        <ul className="menu__container">
+          <li className="menu__item">item 1</li>
+          <li className="menu__item">item 2</li>
+          <li className="menu__item">item 3</li>
         </ul>
       </div>
     </div>
